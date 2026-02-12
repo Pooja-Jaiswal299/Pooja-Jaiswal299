@@ -37,6 +37,17 @@
 ![MVC Architecture](https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge)
 
 
+</td>
+
+<td width="40%">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtZTI1dTN5YzJsZ2VsZjY0cm5jMXk1bHZtdmZ2b3Uya3Rpem80ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+
 ## Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -63,16 +74,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
-</td>
-
-<td width="40%">
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtZTI1dTN5YzJsZ2VsZjY0cm5jMXk1bHZtdmZ2b3Uya3Rpem80ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="100%" />
-
-</td>
-</tr>
-</table>
 
 
 
