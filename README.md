@@ -22,3 +22,13 @@
 </tr>
 </table>
 
+<h2>🛠 Core Skills</h2>
+
+<p>
+<img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+</p>
+
